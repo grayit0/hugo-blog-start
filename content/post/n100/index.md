@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: true
+draft: false
 ---
 
 这个严格来说不算捡垃圾了。今年刚上市的 Intel [N100](https://www.intel.cn/content/www/cn/zh/products/sku/231803/intel-processor-n100-6m-cache-up-to-3-40-ghz/specifications.html)， 7nm 工艺，3.4 GHz 睿频的同时 TDP 只有 6W。购入的是第三方的一体式小主机，8G+128G 丐中丐版约 700RMB。到手拆开看了下内存和硬盘都是杂牌，不过这个价基本也就是买个 CPU 的钱。
