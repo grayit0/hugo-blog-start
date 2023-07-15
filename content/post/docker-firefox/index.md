@@ -17,7 +17,6 @@ docker run -d \
   --name=firefox \
   -p 3000:3000 \
   -p 3001:3001 \
-  # 
   --shm-size="1gb" \
   -e CUSTOM_USER=user\
   -e PASSWORD=password\
